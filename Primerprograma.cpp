@@ -9,7 +9,6 @@ int main() {
     std::locale::global(std::locale("")); // Activa configuración regional del sistema
 
     std::cout << "¡Bienvenido! Aquí hay acentos: á é í ó ú ñ" << std::endl;
-
     std::cout << "Este es el texto que quiero que aparezca" << std::endl;
 
     //cada línea se escribirá de la misma forma agragando << std::endl; para poder saltar de línea
