@@ -8,6 +8,7 @@
 int main() {
     system("chcp 65001");              // Cambia la consola a UTF-8
     std::locale::global(std::locale("")); // Activa configuración regional del sistema
+    std:: string nombre; //Le dice a la memoria que le dé un lugar para guardar texto (string
 
     std::cout << "¡Bienvenido! Aquí hay acentos: á é í ó ú ñ" << std::endl;
     std::cout << "Este es el texto que quiero que aparezca" << std::endl;
