@@ -3,6 +3,7 @@
 //
 #include <iostream>
 #include <locale>
+#include <string>
 
 int main() {
     system("chcp 65001");              // Cambia la consola a UTF-8
