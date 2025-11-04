@@ -18,8 +18,9 @@ int main() {
     //std::cout << "Tercera línea" << std::endl;
     //std::cout << "Cuarta línea" << std::endl;
 
-    std::cout <<"Ingresa tu nombre: ";
+    std::cout <<"Ingresa tu nombre:";
     std::cin >> nombre; //Lee lo que se escriba en la consola
-    std::cout << nombre;
+    std::cout << std::endl; // salto de línea
+    std::cout << "Hola, " << nombre << ", bienvenido a C++";//Imprime lo que se lee en la consola
 
 }
