@@ -44,5 +44,5 @@ int main() {
     std::cin >> edad2;
 
     std::cout <<"Hola, " << nombre << " de " << edad << " años, y " << nombre2 << " de " << edad2 << " años.\nUn gusto saludarles";
-    std::cout << std::endl;//salto d elínea
+    std::cout << std::endl;//salto de línea
 }
