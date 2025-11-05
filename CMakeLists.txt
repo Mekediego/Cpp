@@ -8,6 +8,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -static-libgcc -static-libstdc++")
 
 add_executable(Cpp main.cpp
         HolaMundo.cpp
-        Primerprograma.cpp)
+        Primerprograma.cpp
+        "Calculando área/Calculando área.cpp")
 
 
