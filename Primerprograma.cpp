@@ -43,6 +43,6 @@ int main() {
     std::cout <<"Edad de usuario 2: ";
     std::cin >> edad2;
 
-    std::cout <<"Hola, " << nombre << " de " << edad << " años, y " << nombre2 << " de " << edad2 << " años.\nUn gusto saludarles";
+    std::cout <<"Hola, " << nombre << " de " << edad << " años, y " << nombre2 << " de " << edad2 << " años.\nUn gusto saludarles.";
     std::cout << std::endl;//salto de línea
 }
