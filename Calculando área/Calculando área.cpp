@@ -23,6 +23,6 @@ int main() {
     //std:: cout <<"El perímetro es: " <<perimetro << std::endl; //std::endl; es para que baje el renglón.
     //std:: cout <<"El área es: " <<area;
 
-    std:: cout <<"El perímetro es " <<perimetro << ", y el área es " <<area << ".";
+    std:: cout <<"El perímetro es " <<perimetro << " y el área " <<area << ".";
 
 }
